@@ -1,6 +1,10 @@
 # README
 
-# Testing GitHub configuration.
+# Ruby v3.0.1 (rvm 3.0.1)
+
+# Rails v6.1.7 
+
+# Node v16.16.0 (nvm use 16.16.0)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
