@@ -30,7 +30,9 @@ gem 'bootsnap', '>= 1.4.4', require: false
 
 # custom gems
 gem 'devise'
+gem 'pundit'
 gem 'react-rails'
+gem "rolify"
 gem "tailwindcss-rails", "~> 2.0"
 
 group :development, :test do
